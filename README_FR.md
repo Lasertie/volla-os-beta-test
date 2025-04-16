@@ -99,8 +99,9 @@ Lorsque vous entrez une adresse e-mail et un texte, le lanceur Volla suggère d'
 
     hello@volla.online Où puis-je acheter un téléphone Volla?
 
-Si vous entrez plusieurs fois, la première ligne est utilisée comme sujet de l'email:
+Si vous revenez à la ligne plusieurs fois, la première ligne est utilisée comme sujet de l'email:
 
-Bonjour@volla.online Détaillant Volla
-Cher équipe Volla,
-Où puis-je acheter un téléphone Volla?
+    Bonjour@volla.online Client Volla
+    Cher équipe Volla,
+    Où puis-je acheter un téléphone Volla?
+
