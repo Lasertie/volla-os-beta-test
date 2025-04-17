@@ -105,3 +105,25 @@ Si vous revenez à la ligne plusieurs fois, la première ligne est utilisée com
     Cher équipe Volla,
     Où puis-je acheter un téléphone Volla?
 
+
+### Evenement calendrier
+
+Le Volla Launcher reconnais differentes formes de descriptions d'evenements calendriers se constitues de la date, optionellement de l'heure, du titre et optionnellement de sa description. 
+
+	08/12/2022 12:00 Déjeuner avec Peter
+	12.08. 16:30 - 17:30 S'entrainer au culb de sport
+	6 - 8 pm Dinner avec Paula à Joe's Pizzeria
+
+Si l'heure n'est pas renseigné, le Volla Launcher programmera un evenement sur toute la journée. Erreur seulement la seconde fois pour l'événement. Si la date manque le jour present sera utilisé.
+
+Au lieu d'une date, vous pouvez aussi choisir les jours de la semaine ou une forme courte:
+
+	Tomorrow 10 am video conference avec Paula
+	Thursday 14 - 18 o'clock seminaire sur le  vin dans le Ratskeller 
+
+Si vous sautez une ligne, le Volla Launcher utilisera le texte après comme description de l'evenement calendrier. 
+
+Quand vous tappez sur un suguestion pour ajouter un evenement au calendrier, le systeme ouvrirra l'application de calendrier où vous pourrez confirmer l'evenement pour l'envoyer.
+	
+D'autres fonctions sont prévues
+
